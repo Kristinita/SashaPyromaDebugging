@@ -21,6 +21,7 @@ install:
   - cmd: pip install flake8
   - cmd: pip install pydocstyle
   - cmd: pip install pyroma
+  - cmd: pip install -U setuptools
   - cmd: pip install vulture
 
 build_script:
