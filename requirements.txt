@@ -1,0 +1,7 @@
+   chardet
+   clize
+   colorama
+   logbook
+   pyfiglet
+   regex
+   termcolor
