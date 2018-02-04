@@ -2,7 +2,7 @@
     :target: https://travis-ci.org/Kristinita/Erichek
     :alt: Travis CI
 
-.. AppVeyor badge incorrect displayed in http://rst.ninjs.org online reStructuredText Viewer
+.. AppVeyor badge incorrect displayed in http://rst.ninjs.org — online reStructuredText Viewer
 
 .. image:: https://ci.appveyor.com/api/projects/status/gscnxa6gj2oej1gn?svg=true
     :target: https://ci.appveyor.com/project/Kristinita/erichek
