@@ -12,7 +12,7 @@ dependencies:
     - pip install vulture
 
   override:
-    - do-what-i-want-prevent-circles-commands
+    - echo "Just overriding CircleCI inferred dependency installation..."
 
 test:
   override:
