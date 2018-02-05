@@ -1,6 +1,6 @@
 language: python
 python:
-  - "stable"
+  - "nightly"
 install:
   - pip install flake8
   - pip install pydocstyle
