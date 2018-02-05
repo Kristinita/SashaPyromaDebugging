@@ -3,6 +3,10 @@ machine:
     version: 3.6.3
 
 dependencies:
+
+  override:
+    - echo "Not install dependencies from requirements.txt"
+
   post:
     - pip install flake8
     - pip install pydocstyle
@@ -11,8 +15,6 @@ dependencies:
     - pip install -U setuptools
     - pip install vulture
 
-  override:
-    - echo "Just overriding CircleCI inferred dependency installation..."
 
 test:
   override:
