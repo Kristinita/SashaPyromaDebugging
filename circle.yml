@@ -4,6 +4,7 @@ machine:
 
 dependencies:
 
+  # FIXME: temporary solution
   override:
     - echo "Not install dependencies from requirements.txt"
 
