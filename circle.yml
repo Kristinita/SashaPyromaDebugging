@@ -11,6 +11,9 @@ dependencies:
     - pip install -U setuptools
     - pip install vulture
 
+  override:
+    - do-what-i-want-prevent-circles-commands
+
 test:
   override:
     - flake8 .

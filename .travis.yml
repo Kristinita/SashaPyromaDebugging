@@ -5,11 +5,10 @@ install:
   - pip install flake8
   - pip install pydocstyle
   - pip install pyroma
-  - pip install -U docutils
   - pip install -U setuptools
   - pip install vulture
 script:
   - flake8 .
   - pydocstyle
-  - vulture .
   - pyroma .
+  - vulture .

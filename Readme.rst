@@ -8,9 +8,17 @@
     :target: https://ci.appveyor.com/project/Kristinita/erichek
     :alt: AppVeyor
 
+.. image:: https://circleci.com/gh/Kristinita/Erichek.svg?style=svg
+    :target: https://circleci.com/gh/Kristinita/Erichek
+    :alt: Circle CI
+
 .. image:: https://lintly.com/gh/Kristinita/Erichek/badge.svg
     :target: https://lintly.com/gh/Kristinita/Erichek/
     :alt: Lintly
+
+.. image:: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
+	:target: http://commitizen.github.io/cz-cli/
+	:alt: Commitizen-friendly
 
 
 .. Bold text in links
